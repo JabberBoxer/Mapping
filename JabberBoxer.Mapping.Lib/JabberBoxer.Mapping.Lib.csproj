@@ -55,5 +55,8 @@
     <Compile Include="Relationship.cs" />
     <Compile Include="Validation\Validators.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="MappingClassDiagram.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
